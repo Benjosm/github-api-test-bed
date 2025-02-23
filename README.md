@@ -1,2 +1,1 @@
-# github-api-test-bed
-Used for integration testing GitHub API functions.
+# Updated README for integration test 1740325620972
