@@ -1,1 +1,2 @@
-# Updated README for integration test 1740332795845
+# bank-account-python
+Sample project for integration testing.
