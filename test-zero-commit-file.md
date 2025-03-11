@@ -1,1 +1,0 @@
-Temporary content for zero file paths PR test.
